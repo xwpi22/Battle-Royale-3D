@@ -22,7 +22,7 @@ We have created a survival game called "Battle Royale 3D". Players must control 
   - Quickly double-tap W / S / A / D to sprint (hold down the second tap for a noticeable effect).
   - Move the mouse to change the viewpoint (center: look forward / left: turn left / right: turn right).
   - Right-click the mouse to look backward.
-  - Click the "▶∥" button or press P to pause the game; press again to resume.
+  - Click the "⏯" button or press P to pause the game; press again to resume.
   - Press TAB to switch perspectives.
 * #### God's View (Third-Person) Perspective
   - Move the mouse to rotate the 3D map (the farther from the center, the faster the rotation; center it to stop).
